@@ -1,6 +1,6 @@
-# test_menssana
+# test Menssana
 
-J'ai éffectué ce test de personnalité en répondant aux questions et en pouvant télécharger les réponses par un pdf à la fin avec du html, javascript et css
+J'ai éffectué ce test de personnalité des athlètes en répondant aux questions et en pouvant télécharger les réponses par un pdf à la fin avec du html, javascript et css
 
 Ce test de personnalité est fait sur plusieurs thèmes, où on doit répondre aux questions en cochant une case de couleurs selon si in est eb accord avec ou non.
 Avant le questionnaire, la définition de chaque couleur est dite. 
